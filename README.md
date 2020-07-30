@@ -4,7 +4,7 @@ fork of a pong game written in rust
 > #### Original author is TanTan
 > his [tutorial video](https://youtu.be/TUE_HSgQiG0)
 >
-> his [youtube channe](https://www.youtube.com/channel/UChl_NKOs1qqh_x7yJfaDpDw)
+> his [youtube channel](https://www.youtube.com/channel/UChl_NKOs1qqh_x7yJfaDpDw)
 >
 > his [Github](https://github.com/TanTanDev)
 
