@@ -437,7 +437,7 @@ impl event::EventHandler for MainState {
             self.ball_vel.y = -self.ball_vel.y.abs();
         }
 
-        //uncomment the following lines to disable "AI"
+        //comment the following lines to disable "AI"
         if self.ball_pos.y < self.player_2_pos.y {
             self.player_2_pos.y -= PLAYER_SPEED * 0.4 * dt;
         } else {
